@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Pharmacy.API/Pharmacy.API.csproj" />
   <Project Path="Pharmacy.BLL/Pharmacy.BLL.csproj" />
   <Project Path="Pharmacy.DAL/Pharmacy.DAL.csproj" />
+  <Project Path="Pharmacy.Web/Pharmacy.Web.csproj" Id="b9eb0315-af92-4e78-9a9c-3ba43e8d2a3e" />
 </Solution>
